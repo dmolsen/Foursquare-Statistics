@@ -1,0 +1,15 @@
+=== foursquare Venue Statistics ===
+Generates some general statistics related to foursquare and the supplied venue IDs.
+
+Created by: dave olsen, university relations/web at west virginia university
+Created on: october 28, 2010
+
+To use:
+  - create a venues.txt file that contains a list of every venue ID you want to check
+  - run this script from the console by typing: php statistics.php
+  - check the reports directory for the file you just created
+
+WARNING:
+  - if you have more than 200 venues to check then this script will fail on venue #201
+    foursquare has instituted rate limiting & this query can only be run 200 times an hour
+
