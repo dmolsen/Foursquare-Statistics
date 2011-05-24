@@ -1,0 +1,53 @@
+foursquare report for May. 24, 2011 @ 1:14pm
+
+total check-ins: 4662
+total venues: 10
+total venues w/out check-ins: 0
+total different mayors: 10
+total tips: 17
+total photos: 3
+
+top five venues by checkins:
+WVU Student Rec Center: 1151
+WVU Engineering Sciences Building: 1009
+WVU Agricultural Sciences Building: 641
+Oglebay Hall: 557
+WVU College of Law: 489
+
+top five venues by tips:
+WVU Student Rec Center: 10
+Elizabeth Moore Hall: 2
+WVU Engineering Sciences Building: 2
+Oglebay Hall: 2
+WVU College of Law: 1
+
+top five venues by photos:
+WVU Student Rec Center: 2
+WVU Engineering Sciences Building: 1
+WVU Admission Services: 0
+Oglebay Hall: 0
+Elizabeth Moore Hall: 0
+
+all venues (sorted by name):        ci / t / p
+Elizabeth Moore Hall:               173 / 2 / 0
+Mineral Resources Building:         344 / 0 / 0
+Oglebay Hall:                       557 / 2 / 0
+Percival Hall:                      234 / 0 / 0
+WVU Admission Services:             3 / 0 / 0
+WVU Agricultural Sciences Building: 641 / 0 / 0
+WVU College of Law:                 489 / 1 / 0
+WVU Communications Building:        61 / 0 / 0
+WVU Engineering Sciences Building:  1009 / 2 / 1
+WVU Student Rec Center:             1151 / 10 / 2
+
+all venues (sorted by check-ins):   ci / t / p
+WVU Student Rec Center:             1151 / 10 / 2
+WVU Engineering Sciences Building:  1009 / 2 / 1
+WVU Agricultural Sciences Building: 641 / 0 / 0
+Oglebay Hall:                       557 / 2 / 0
+WVU College of Law:                 489 / 1 / 0
+Mineral Resources Building:         344 / 0 / 0
+Percival Hall:                      234 / 0 / 0
+Elizabeth Moore Hall:               173 / 2 / 0
+WVU Communications Building:        61 / 0 / 0
+WVU Admission Services:             3 / 0 / 0
